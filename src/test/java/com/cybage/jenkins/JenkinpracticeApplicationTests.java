@@ -13,8 +13,8 @@ class JenkinpracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("Test executing");
-		logger.info("test seconf running");
+		logger.info("Test CASE  executing");
+//		logger.info("test seconf running");
 		assertEquals(true,true);
 	}
 
