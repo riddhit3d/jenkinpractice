@@ -12,7 +12,7 @@ class JenkinpracticeApplicationTests {
 	public static Logger logger=LoggerFactory.getLogger(JenkinpracticeApplication.class);
 
 	@Test
-	void contextLoads() {
+	 public void contextLoads() {
 		logger.info("Test CASE  executing");
 //		logger.info("test seconf running");
 		assertEquals(true,true);
